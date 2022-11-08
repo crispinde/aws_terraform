@@ -1,17 +1,17 @@
 variable REGION {
-  default = "us-east-2"
+  default = "us-west-2"
 }
 
 variable ZONE1 {
-  default = "us-east-2a"
+  default = "us-west-2a"
 }
 
 variable ZONE2 {
-  default = "us-east-2b"
+  default = "us-west-2b"
 }
 
 variable ZONE3 {
-  default = "us-east-2c"
+  default = "us-west-2c"
 }
 
 variable AMIS {
